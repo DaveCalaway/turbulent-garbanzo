@@ -1,6 +1,6 @@
 # turbulent-garbanzo
 
-Gemma_discrete_components
+**Gemma_discrete_components**
 
 *status*: Beta
 
